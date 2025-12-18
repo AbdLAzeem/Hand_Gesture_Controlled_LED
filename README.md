@@ -16,10 +16,6 @@ Live video feedback with finger count overlay
 
 LED control via Arduino based on detected gestures
 
-Modular controller design (easy hardware extension)
-
-Beginner-friendly and well-structured Python code
-
 System Architecture
 Webcam
    ↓
@@ -35,19 +31,7 @@ LEDs
 
 Hardware Requirements
 
-Arduino Uno
-
-5 × LEDs
-
-5 × 220Ω resistors
-
-Breadboard
-
-Jumper wires
-
-USB cable (Arduino ↔ PC)
-
-Webcam (built-in or external)
+Arduino Uno - 5 × LEDs - 5 × 220Ω resistors - Breadboard - Jumper wires - USB cable (Arduino ↔ PC) - Webcam (built-in or external) 
 
 Connection Steps:
 
@@ -61,19 +45,9 @@ The number of LEDs turned ON corresponds to the number of detected raised finger
 
 Software Requirements
 
-Python 3.8+
+Python 3.8+ - Arduino IDE 
 
-Arduino IDE
-
-Required Python libraries:
-
-opencv-python
-
-cvzone
-
-mediapipe
-
-pyserial
+Required Python libraries: opencv-python - cvzone - mediapipe - pyserial
 
 Usage
 
@@ -93,3 +67,4 @@ Raise fingers (0–5)
 LEDs will light up according to finger count
 
 Press K to exit the application
+
