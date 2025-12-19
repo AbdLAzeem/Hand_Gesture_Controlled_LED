@@ -42,6 +42,8 @@ Connect all cathodes (–) to GND
 Connect Arduino to PC via USB
 
 The number of LEDs turned ON corresponds to the number of detected raised fingers.
+<img width="625" height="676" alt="Schematic_Diagram" src="https://github.com/user-attachments/assets/70240248-84d8-4327-ba12-2dc84e97ea15" />
+
 
 Software Requirements
 
@@ -67,4 +69,5 @@ Raise fingers (0–5)
 LEDs will light up according to finger count
 
 Press K to exit the application
+
 
