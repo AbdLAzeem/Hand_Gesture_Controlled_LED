@@ -1,5 +1,8 @@
 ﻿# Hand_Gesture_Controlled_LED
 Python | OpenCV | MediaPipe | Arduino Uno
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/011ef9aa-0ca0-4124-8e66-5c7605f503b9" />
+[image_Source:https://youtu.be/lcMMxX07LsM?si=x1nzgFPHFk4ezEea]
+
 Overview
 
 This project implements a real-time hand gesture recognition system that detects the number of fingers raised using a webcam and controls LEDs connected to an Arduino Uno accordingly.
@@ -69,5 +72,6 @@ Raise fingers (0–5)
 LEDs will light up according to finger count
 
 Press K to exit the application
+
 
 
