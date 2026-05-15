@@ -1,6 +1,3 @@
-python main.py
-   Here is a clean, professional, and well-structured `README.md` tailored for your **Hand Gesture Controlled LED** repository.
-
 ***
 ```markdown
 # Hand Gesture Controlled LED
